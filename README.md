@@ -1,2 +1,1 @@
-# blog
-Record, don't forget.
+## 个人博客，博客内容在[Issues](https://github.com/Yealove/blog/issues)中...
